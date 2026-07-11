@@ -1,0 +1,7 @@
+fridayenv/
+__pycache__/
+Screenshorts/
+creds.py
+*.pyc
+.env
+.vscode/
